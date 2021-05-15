@@ -22,7 +22,7 @@
 			</p>
 			<p class="credits">
 				{% for credit in credits %}
-				<strong>{{ credit.title }}: </strong>{{ credit.text }}<br>
+				{{ credit.title }}: {{ credit.text }}<br>
 				{% endfor %}
 			</p>
 		</div>

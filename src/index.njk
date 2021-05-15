@@ -9,13 +9,13 @@ eleventyNavigation:
 <div id="work">
 	<ul id="grid" class="grid clear">
 		{% for work in collections.work %}
-		<li>
+		<li{% if work.data.feature == true %} class="feature"{% endif %}>
 			<a href="{{ work.url }}">
 				<img width="720" height="540" src="{{ work.data.image }}">
 				<div>
 					<h2>{{ work.data.title }}</h2>
 					<h3>{{ work.data.subtitle }}</h3>
-					<p>{{ work.data.tags | join(", ")}}</p>
+					<p>{{ work.data.tags | cleanTags | join(", ")}}</p>
 				</div>
 			</a>
 		</li>

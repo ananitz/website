@@ -18,6 +18,12 @@ module.exports = function(eleventyConfig) {
     "./src/admin/config.yml": "./admin/config.yml",
   })
 
+  eleventyConfig.addFilter("cleanTags", function(value) {
+    return value.filter(function(tag) {
+      return tag !== "work";
+    });
+  });
+
   // Override Browsersync defaults (used only with --serve)
   eleventyConfig.setBrowserSyncConfig({
     callbacks: {
