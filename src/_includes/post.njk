@@ -1,0 +1,45 @@
+{% extends "base.njk" %}
+{% block main %}
+	<div id="work">
+	<div class="column-wrap clear">
+		<div class="column-large">
+			<h2>
+				{{ title }}
+			</h2>
+			<h3>
+				{{ subtitle }}
+			</h3>
+			<p class="meta">
+				{{ meta | safe}}
+			</p>
+			<p>
+				{{ content | safe }}
+			</p>
+			<p>
+				{% for link in links %}
+					<a href="{{ link.link }}">{{ link.title }}</a><br>
+				{% endfor %}
+			</p>
+			<p class="credits">
+				{% for credit in credits %}
+				<strong>{{ credit.title }}: </strong>{{ credit.text }}<br>
+				{% endfor %}
+			</p>
+		</div>
+		<div class="column-small clear">
+			<ul id="gallery">
+				{% for video in videos %}
+				<li class="iframe">
+					<iframe width="360" height="202" src="{{ video }}" frameborder="0" allowfullscreen></iframe>
+				</li>
+				{% endfor %}
+				{% for image in images %}
+				<li{% if loop.index > 1 %} class="small"{% endif %}>
+					<a href="{{ image }}"><img src="{{ image }}"></a>
+				</li>
+				{% endfor %}
+			</ul>
+		</div>
+	</div>
+</div>
+{% endblock %}

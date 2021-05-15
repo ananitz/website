@@ -1,0 +1,49 @@
+<header>
+	<div class="column-wrap clear">
+		<div class="column-small">
+			<h1>
+				<a href="/">Ana<br> Paula<br> Nitzsche</a>
+			</h1>
+		</div>
+		<div class="column-large">
+			<nav>
+				<ul>
+					{%- for item in collections.all | eleventyNavigation %}
+					<li>
+	    				<a href="{{ item.url | url }}"{% if page.url == item.url %} class="active"{% endif %}>{{ item.title }}</a>
+	    			</li>
+    				{% endfor %}
+				</ul>
+			</nav>
+			<ul class="tags">
+				<li>
+					Architecture
+				</li>
+				<li>
+					Documentary Film
+				</li>
+				<li>
+					Research
+				</li>
+				<li>
+					Media Installation
+				</li>
+				<li>
+					Exhibition
+				</li>
+				<li>
+					Urban Space
+				</li>
+				<li>
+					Participatory Design
+				</li>
+				<li>
+					Video Mapping
+				</li>
+				<li>
+					Workshop
+				</li>
+			</ul>
+		</div>
+	</div>
+</header>

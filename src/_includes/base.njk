@@ -9,12 +9,10 @@
     <meta name="keywords" content="{{ metadata.keywords }}">
     <meta name="description" content="{{ description or metadata.description }}">
 
-    <link rel="stylesheet" type="text/css" href="{{ '/assets/main.css' | url }}" />
+    <link rel="stylesheet" type="text/css" href="{{ '/css/main.min.css' | url }}" />
 
-    <link rel="shortcut icon" href="/img/favicon.ico">
-    <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+    <link rel="shortcut icon" href="favicon.ico">
 
-    <!-- taken from here: https://www.matuzo.at/blog/html-boilerplate/ -->
     <meta property="og:title" content="{{ title or metadata.title }}">
     <meta property="og:description" content="{{ description or metadata.description }}">
     <meta property="og:locale" content="en_US">
@@ -22,8 +20,20 @@
     <meta property="og:url" content="{{ page.url | url }}">
 
     <meta name="theme-color" content="#1284C6">
+
+    <script src="{{ '/js/main.min.js' | url }}" type="text/javascript"></script>
+
   </head>
   <body>
-    {% block main %}{% endblock %}
+    <div id="wrap">
+      {% include "header.njk" %}
+      <section id="main">
+        {% block main %}{% endblock %}
+      </section>
+      {% include "footer.njk" %}
+    </div>
+
+    <script src="{{ '/js/imagesloaded.min.js' | url }}" type="text/javascript"></script>
+    <script src="{{ 'js/masonry.min.js' | url }}" type="text/javascript"></script>
   </body>
 </html>

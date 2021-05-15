@@ -1,12 +1,25 @@
 ---
 eleventyNavigation:
-  key: Home
+  key: Work
   order: 1
 ---
 
 {% extends "base.njk" %}
 {% block main %}
-
-test
-
+<div id="work">
+	<ul id="grid" class="grid clear">
+		{% for work in collections.work %}
+		<li>
+			<a href="{{ work.url }}">
+				<img width="720" height="540" src="{{ work.data.image }}">
+				<div>
+					<h2>{{ work.data.title }}</h2>
+					<h3>{{ work.data.subtitle }}</h3>
+					<p>{{ work.data.tags | join(", ")}}</p>
+				</div>
+			</a>
+		</li>
+		{% endfor %}
+	</ul>
+</div>
 {% endblock %}
