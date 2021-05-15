@@ -1,6 +1,7 @@
 const htmlmin = require("html-minifier");
 const fs = require("fs");
 const pluginNavigation = require("@11ty/eleventy-navigation");
+const markdownIt = require("markdown-it");
 
 module.exports = function(eleventyConfig) {
   // Add plugins
@@ -23,6 +24,15 @@ module.exports = function(eleventyConfig) {
       return tag !== "work";
     });
   });
+
+  let markdownLibrary = markdownIt({
+    html: true,
+    breaks: true,
+    linkify: true
+  })
+  eleventyConfig.addFilter("markdownify", (str) => {
+    return markdownLibrary.renderInline(str);
+  })
 
   // Override Browsersync defaults (used only with --serve)
   eleventyConfig.setBrowserSyncConfig({
