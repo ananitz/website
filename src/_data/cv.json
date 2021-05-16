@@ -1,0 +1,43 @@
+{
+  "lists": [
+    {
+      "title": "Work",
+      "items": [
+        {
+          "date": "12.12",
+          "description": "bier bier bier ",
+          "title": "trinken"
+        },
+        {
+          "date": "13.12",
+          "description": "Suppe essen",
+          "title": "suppe"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "items": [
+        {
+          "date": "1.1",
+          "description": "Schule",
+          "title": "asd"
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "title": "Sticken",
+      "description": "historische stickmuster, tücher"
+    },
+    {
+      "title": "Autofahren",
+      "description": "rückwärts einparken"
+    },
+    {
+      "title": "Schwimmen",
+      "description": "kraulen, rücken, brust, tauchen, turn, ohne arme, springen, bananeira"
+    }
+  ]
+}

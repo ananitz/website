@@ -8,437 +8,43 @@ eleventyNavigation:
 {% block main %}
 
 <div id="cv">
+	{% for list in cv.lists %}
 	<div class="column-wrap clear">
 		<div class="column-small">
 		</div>
 		<div class="column-large">
 			<h2>
-				Education
+				{{ list.title }}
 			</h2>
 		</div>
 	</div>
+
+	{% for item in list.items %}
 	<div class="column-wrap clear">
 		<div class="column-small">
 			<p>
-				10.2013 – 07.2016
+				{{ item.date }}
 			</p>
 		</div>
 		<div class="column-large">
 			<h3>
-				Bauhaus-University Weimar
+				{{ item.title }}
 			</h3>
 			<p>
-				Master of Science in MediaArchitecture<br>
-				Thesis: Casa Arnstein 1939-41 — The entanglement of architecture and nature in Bernard Rudofsky's patio house in São Paulo, Documentary Film and Research<br>
-				<a href="http://markepunktsechs.de/page/aktuelles/preisverleihung-grafe-kreativ-preis-und-bauhaus-essential-2016/">Honorable Mention for the Bauhaus Essentials 2016</a>
+				{{ item.description | markdownify | safe }}
 			</p>
 		</div>
 	</div>
-	<div class="column-wrap clear">
-		<div class="column-small">
-			<p>
-				08.2007 – 01.2013
-			</p>
-		</div>
-		<div class="column-large">
-			<h3>
-				UFMG – Federal University of Minas Gerais, Brazil
-			</h3>
-			<p>
-				Diploma in Architecture and Urbanism<br>
-				Thesis: School for Further Education and Cultural Center<br>
-				Architectural Design and Master Plan
-			</p>
-		</div>
-	</div>
-	<div class="column-wrap clear">
-		<div class="column-small">
-			<p>
-				03.2011 – 02.2012
-			</p>
-		</div>
-		<div class="column-large">
-			<h3>
-				Exchange Program at the Bauhaus-University Weimar
-			</h3>
-			<p>
-				Field of Study: Architecture and Urbanism
-			</p>
-		</div>
-	</div>
-	<div class="column-wrap clear">
-		<div class="column-small">
-			<p>
-				02.1994 – 10.2006
-			</p>
-		</div>
-		<div class="column-large">
-			<h3>
-				Colégio Loyola – Belo Horizonte, Brazil
-			</h3>
-			<p>
-				Elementary and High School
-			</p>
-		</div>
-	</div>
+	{% endfor %}
+	{% endfor %}
+
+	{% for skill in cv.skills %}
 	<div class="column-wrap clear">
 		<div class="column-small">
 		</div>
 		<div class="column-large">
 			<h2>
-				Work Experience
-			</h2>
-		</div>
-	</div>
-	<div class="column-wrap clear">
-		<div class="column-small">
-			<p>
-				08.2019 – 09.2019
-			</p>
-		</div>
-		<div class="column-large">
-			<h3>
-				Assistant at Futurium - House of Futures, Berlin
-			</h3>
-			<p>
-				Working at Futurium Lab, Department of Education and Participation, with
-				graphic layouts and engraving of text panels, name tags and warning signs for the opening exhibition of the museum.
-			</p>
-		</div>
-	</div>
-	<div class="column-wrap clear">
-		<div class="column-small">
-			<p>
-				01.2019 – 08.2019
-			</p>
-		</div>
-		<div class="column-large">
-			<h3>
-				Curator Assistent – FREIHEIT2050
-			</h3>
-			<p>
-				Research and planning for the exhibition FREIHEIT2050, a vision for the future scenarios of the city of Munich.
-				Curator: Julia Hinderink and Stenger2 Team
-			</p>
-		</div>
-	</div>
-	<div class="column-wrap clear">
-		<div class="column-small">
-			<p>
-				01.2017 – 01.2019
-			</p>
-		</div>
-		<div class="column-large">
-			<h3>
-				Architect – Stenger2
-			</h3>
-			<p>
-				Working full time as an architect in the office <a href="https://stenger2.de">Stenger2 Architekten und Partner</a> in Munich, Germany. Experience with all phases of planning and construction according to the HOAI (work stages) in housing projects, office facilities, as well as retrofitting of inactive public buildings.
-			</p>
-		</div>
-	</div>
-	<div class="column-wrap clear">
-		<div class="column-small">
-			<p>
-				03.2016 – 10.2016
-			</p>
-		</div>
-		<div class="column-large">
-			<h3>
-				E-Tutor – Bauhaus-University Weimar
-			</h3>
-			<p>
-				E-tutor (intern) at the professorship "Darstellungsmethodik", Faculty of Architecture and Urbanism.<br>
-				Filming, editing and documenting academic material to be used as a learning tool.
-			</p>
-		</div>
-	</div>
-	<div class="column-wrap clear">
-		<div class="column-small">
-			<p>
-				06.2016 – 07.2016
-			</p>
-		</div>
-		<div class="column-large">
-			<h3>
-				Summaery 2016 – Bauhaus-University Weimar
-			</h3>
-			<p>
-				This exhibition of master's thesis projects from Ana Paula Nitzsche, Ortrun Bargholz and Tamara. As well as the semester project Berlin – Wrocław: Architekturen der Moderne in dialogischen Bildern.<br>
-				Centre for Documentary Architecture, Exhibition of documentary films about Forgotten Architecture<br>
-				Supervision: Prof. Ines Weizman<br>
-				Set design concept and execution
-			</p>
-		</div>
-	</div>
-	<div class="column-wrap clear">
-		<div class="column-small">
-			<p>
-				11.2015 – 12.2015
-			</p>
-		</div>
-		<div class="column-large">
-			<h3>
-				Hospital Felicio Rocho – Belo Horizonte, Brazil
-			</h3>
-			<p>
-				Following up the implementation of the executive project of the Hospital Felicio Rocho, part of the Felice Rosso Foundation. The extension project included a new Center for Research, a Studies Center and an auditorium for 150 people.
-			</p>
-		</div>
-	</div>
-	<div class="column-wrap clear">
-		<div class="column-small">
-			<p>
-				06.2015 – 07.2015
-			</p>
-		</div>
-		<div class="column-large">
-			<h3>
-				Summaery 2015 – Bauhaus-University Weimar
-			</h3>
-			<p>
-				Centre for Documentary Architecture - www.documentary-architecture.org<br>
-				Exhibition of documentary films about Forgotten Architecture<br>
-				Supervision: Prof. Ines Weizman<br>
-				Set design concept and execution
-			</p>
-		</div>
-	</div>
-	<div class="column-wrap clear">
-		<div class="column-small">
-			<p>
-				10.2014 – 12.2014
-			</p>
-		</div>
-		<div class="column-large">
-			<h3>
-				Exhibition Bauhaus Essentials 2014
-			</h3>
-			<p>
-				Exhibition of documentary films about Forgotten Architecture<br>
-				Supervision: Prof. Ines Weizman<br>
-				Description: Set design concept and execution<br>
-				<a href="http://documentary-architecture.org/recent/exhibition-bauhaus-essentials-2014/">Bauhaus Essentials Website</a>
-			</p>
-		</div>
-	</div>
-	<div class="column-wrap clear">
-		<div class="column-small">
-			<p>
-				03.2012 – 08.2012
-			</p>
-		</div>
-		<div class="column-large">
-			<h3>
-				Extension Scholarship Program at the UFMG / DESEJA.CA
-			</h3>
-			<p>
-				Coordinators: Natacha Rena and Juliana Torres de Miranda<br>
-				Sustainable Development and Social Enterprise in Jardim Canadá, a suburb of Belo Horizonte.
-			</p>
-		</div>
-	</div>
-	<div class="column-wrap clear">
-		<div class="column-small">
-			<p>
-				12.2010 – 02.2011
-			</p>
-		</div>
-		<div class="column-large">
-			<h3>
-				Internship at Architecture Office / Fatima Camargos Arquitetura – Brazil
-			</h3>
-			<p>
-				Follow up project details and calculate build up areas.
-			</p>
-		</div>
-	</div>
-	<div class="column-wrap clear">
-		<div class="column-small">
-			<p>
-				10.2010 – 04.2011
-			</p>
-		</div>
-		<div class="column-large">
-			<h3>
-				Exhibition in celebration of 80 years of School of Architecture at the UFMG
-			</h3>
-			<p>
-				School of Architecture at the UFMG: memories of the past, vision for the future<br>
-				Project: Research lab PET Arquitetura UFMG<br>
-				Supervision: Celina Borges Lemos and Cristirano Cezarino<br>
-				Research and selection of material for the exhibition, collaboration with the concept and the set design.
-			</p>
-		</div>
-	</div>
-	<div class="column-wrap clear">
-		<div class="column-small">
-			<p>
-				02.2009 – 11.2010
-			</p>
-		</div>
-		<div class="column-large">
-			<h3>
-				Research Program at the UFMG / PET (Tutorial Educational Program)
-			</h3>
-			<p>
-				Tutor: Celina Borges Lemos<br>
-				Individual research for purposes of writing articles and development of extension programs with the ensure commitment to society.
-			</p>
-		</div>
-	</div>
-	<div class="column-wrap clear">
-		<div class="column-small">
-		</div>
-		<div class="column-large">
-			<h2>
-				Events
-			</h2>
-		</div>
-	</div>
-	<div class="column-wrap clear">
-		<div class="column-small">
-			<p>
-				09.2016
-			</p>
-		</div>
-		<div class="column-large">
-			<h3>
-				Bauhausfest 2016 - Bauhaus, Dessau - Germany
-			</h3>
-			<p>
-				Zirkus, Zirkus – von Schwarz nach Weiß<br>
-				Short trailer of the performance by the group Kybernetischer Zirkus, to be projected onto the facade of the original building of the Bauhaus Dessau. Produced together with the architect Stefanie Holzheu.
-			</p>
-		</div>
-	</div>
-	<div class="column-wrap clear">
-		<div class="column-small">
-			<p>
-				06.2015
-			</p>
-		</div>
-		<div class="column-large">
-			<h3>
-				Video Mapping Experiments - Haus am Horn, Weimar - Germany
-			</h3>
-			<p>
-				Supervision: Prof. Andreas Kästner, chair Darstellungsmethodik.<br>
-				Video facade animation developed as a semester project at the Bauhaus University Weimar for the Haus am Horn, UNESCO World Heritage Bauhaus. The event was part of the "Lange Nacht der Museen" 2015.
-			</p>
-		</div>
-	</div>
-	<div class="column-wrap clear">
-		<div class="column-small">
-			<p>
-				05.2015
-			</p>
-		</div>
-		<div class="column-large">
-			<h3>
-				From the Second Life - Tel Aviv, Israel - White City Network
-			</h3>
-			<p>
-				Supervision: Prof. Ines Weizman<br>
-				Exhibition organized by the students based on their works on Forgotten Architecture with an interdisciplinary display that employed different types of media, including films, blueprints, literature and digital technologies, which depict various buildings that were designed by emigrant architects.
-			</p>
-		</div>
-	</div>
-	<div class="column-wrap clear">
-		<div class="column-small">
-			<p>
-				07.2014
-			</p>
-		</div>
-		<div class="column-large">
-			<h3>
-				Summaery 2014 – Bauhaus-University Weimar
-			</h3>
-			<p>
-				Aus dem zweiten Leben - Dokumente vergessener Architekturen<br>
-				Documentary films and exhibition about Forgotten Architecture (Concept, camera, editing and exhibition)<br>
-				<a href="https://www.uni-weimar.de/de/universitaet/aktuell/bauhausjournal-online/titel/grafe-kreativ-preise-2014-verliehen/">Winner of the creative price: Bauhaus Essentials 2014 &amp; GRAFE</a>
-			</p>
-		</div>
-	</div>
-	<div class="column-wrap clear">
-		<div class="column-small">
-			<p>
-				09.2012
-			</p>
-		</div>
-		<div class="column-large">
-			<h3>
-				Product Design Fair - Belo Horizonte - Brazil
-			</h3>
-			<p>
-				Presenting and selling publications and products of design developed by group DESEJA.CA, made with residual material through participatory design.
-			</p>
-		</div>
-	</div>
-	<div class="column-wrap clear">
-		<div class="column-small">
-		</div>
-		<div class="column-large">
-			<h2>
-				Workshops
-			</h2>
-		</div>
-	</div>
-	<div class="column-wrap clear">
-		<div class="column-small">
-			<p>
-				07.2015
-			</p>
-		</div>
-		<div class="column-large">
-			<h3>
-				Can buildings talk?
-			</h3>
-			<p>
-				Filming and collage workshop based on architectural elements as part of the Summaery 2015 and in commemoration of ten year of the study field MediaArchitecture of the Bauhaus-University Weimar.
-			</p>
-		</div>
-	</div>
-	<div class="column-wrap clear">
-		<div class="column-small">
-			<p>
-				05.2015
-			</p>
-		</div>
-		<div class="column-large">
-			<h3>
-				Workshop at the Max Liebling House, Tel Aviv
-			</h3>
-			<p>
-				Filming workshop part of the film-research project From the Second Life. Documents of Forgotten Architectures and its exhibition in in Tel Aviv focused on interviews with specialists in the field of architecture and history. The Open House Tel Aviv events responds to an invitation by the Conservation Department of the Municipality of Tel Aviv- Yafo to celebrate the opening of the "White City Architectural Center".<br>
-				Conducted by: Wolfram Höhne, Markus Schlaffke and Volkmar Umlauft<br>
-				<a href="http://documentary-architecture.org/recent/workshop-max-liebling-house/">Centre for Documentary Architecture (Workshop Tel Aviv)</a>
-			</p>
-		</div>
-	</div>
-	<div class="column-wrap clear">
-		<div class="column-small">
-			<p>
-				07.2012
-			</p>
-		</div>
-		<div class="column-large">
-			<h3>
-				Workshop "Ivete’s House"
-			</h3>
-			<p>
-				Architectural Intervention in a self-constructed house in Jardim Canada, Brazil.<br>
-				Description: The project was developed along with the discipline UNI 009 – Multidisciplinary Workshop: Social and Environmental Projects at the School of Architecture of UFMG, seeking to improve the quality of life of a family in the neighborhood, through the collaborative design process, the use residual materials and popular constructive solutions found in the site.
-			</p>
-		</div>
-	</div>
-	<div class="column-wrap clear">
-		<div class="column-small">
-		</div>
-		<div class="column-large">
-			<h2>
-				Languages
+				{{ skill.title }}
 			</h2>
 		</div>
 	</div>
@@ -447,33 +53,11 @@ eleventyNavigation:
 		</div>
 		<div class="column-large">
 			<p>
-				Portuguese (Native Speaker)<br>
-				English (Fluent)<br>
-				Deutsch (Advanced)
+				{{ skill.description | markdownify | safe }}
 			</p>
 		</div>
 	</div>
-	<div class="column-wrap clear">
-		<div class="column-small">
-		</div>
-		<div class="column-large">
-			<h2>
-				Technical Skills
-			</h2>
-		</div>
-	</div>
-	<div class="column-wrap clear">
-		<div class="column-small">
-		</div>
-		<div class="column-large">
-			<p>
-				Adobe Illustrator, Photoshop and InDesign<br>
-				Graphisoft ArchiCAD, Autodesk AutoCAD<br>
-				Google Sketch Up, Cinema 4D Studio<br>
-				Adobe Premiere Pro and After Effects
-			</p>
-		</div>
-	</div>
+	{% endfor %}
 </div>
 
 {% endblock %}
