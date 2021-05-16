@@ -12,6 +12,18 @@ public_folder: "/img"
 local_backend: true
 
 collections:
+  - label: "Pages"
+    name: "pages"
+    format: json
+    files:
+      - label: "About Page"
+        editor:
+          preview: false
+        name: "about"
+        file: "src/_data/about.json"
+        fields:
+          - { label: "Image", name: "image", widget: "image" }
+          - { label: "Body", name: "body", widget: "markdown" }
   - label: "Work"
     name: "work"
     folder: "src/work"

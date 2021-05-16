@@ -31,7 +31,10 @@ module.exports = function(eleventyConfig) {
     linkify: true
   })
   eleventyConfig.addFilter("markdownify", (str) => {
-    return markdownLibrary.renderInline(str);
+    if (str !== undefined) {
+      return markdownLibrary.renderInline(str);
+    }
+    return str
   })
 
   // Override Browsersync defaults (used only with --serve)

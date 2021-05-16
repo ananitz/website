@@ -2,7 +2,7 @@
 meta: |-
   Master Thesis MediaArchitecture
   Documentary Film and Research
-  Bauhaus-University Weimar, Germany – July 2016"
+  Bauhaus-University Weimar, Germany – July 2016
 layout: post.njk
 title: Casa Arnstein 1939-41
 feature: false
