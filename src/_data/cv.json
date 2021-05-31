@@ -1,6 +1,16 @@
 {
   "lists": [
     {
+      "title": "Education",
+      "items": [
+        {
+          "date": "10.2013 – 07.2016",
+          "description": "Master of Science in MediaArchitecture\\\nThesis: Casa Arnstein 1939-41 — The entanglement of architecture and nature in Bernard Rudofsky's patio house in São Paulo, Documentary Film and Research\\\n[Honorable Mention for the Bauhaus Essentials 2016](http://markepunktsechs.de/page/aktuelles/preisverleihung-grafe-kreativ-preis-und-bauhaus-essential-2016/)\n\nhttps://www.uni-weimar.de/de/universitaet/aktuell/bauhausjournal-online/veranstaltungen/titel/bauhaus-essentials-teilnehmer-stehen-fest/",
+          "title": "Bauhaus-University Weimar"
+        }
+      ]
+    },
+    {
       "title": "Work",
       "items": [
         {
@@ -12,16 +22,6 @@
           "date": "13.12",
           "description": "Suppe essen",
           "title": "suppe"
-        }
-      ]
-    },
-    {
-      "title": "Education",
-      "items": [
-        {
-          "date": "1.1",
-          "description": "Schule",
-          "title": "asd"
         }
       ]
     },
