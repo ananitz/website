@@ -24,6 +24,16 @@
           "title": "asd"
         }
       ]
+    },
+    {
+      "title": "Events",
+      "items": [
+        {
+          "date": "09.2016",
+          "title": "Bauhausfest 2016 - Bauhaus, Dessau - Germany",
+          "description": "Test Test \n\nTestttttTestttttTestttttTestttttTestttttTestttttTestttttTestttttTestttttTestttttTesttttt TestttttTestttttTestttttTestttttTestttttTestttttTestttttTestttttTestttttTestttttTestttttTestttttTestttttTestttttTestttttTestttttTestttttTestttttTestttttTestttttTestttttTesttttt"
+        }
+      ]
     }
   ],
   "skills": [
