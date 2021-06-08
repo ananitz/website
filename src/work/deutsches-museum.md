@@ -16,7 +16,7 @@ links:
   - title: neo.studio neumann schneider architekten
     link: https://www.neo-studio.de/
 credits:
-  - title: "*"
+  - title: note
     text: The technical drawing (cross section) here displayed is a sketch of the KM
       exhibition during the planning process. All copyrights, also of third
       parties, must be observed.
