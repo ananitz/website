@@ -2,9 +2,16 @@
 title: Deutsches Museum
 feature: false
 image: /img/img_8834.jpg
-subtitle: Exhibition Planning at neo.studio
-meta: New planning of five existing exhibitions in the Deutsches Museum, Munich
-  together with coworkers and project managers from neo.studo Berlin
+subtitle: Exhibition design at neo.studio
+meta: >-
+  Power Machinery – Electric Power – Marine Navigation - Historic Aviation –
+  Natural Sciences 
+
+
+  \_\_\_\_
+
+
+  New planning of five existing exhibitions in the Deutsches Museum, Munich, together with coworkers and project managers from neo.studo Berlin.
 date: 2021-06-01T13:55:40.377Z
 links:
   - link: https://www.deutsches-museum.de/en/exhibitions/overview/
