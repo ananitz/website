@@ -9,6 +9,27 @@ meta: >-
 
 
   New planning of five existing exhibitions in the Deutsches Museum, Munich, together with coworkers and project managers from neo.studo Berlin.
+
+
+
+
+  Work description:\
+
+  \
+
+  Preliminary design for upcoming exhibitions at Deutsches Museum, Munich.\
+
+  \
+
+  (Schifffahrt - Historische Luftfahrt – Natur der Naturwissenschaft)\
+
+  \
+
+  Emphasis Planning for KM1 and STS including first draft submission.\
+
+  \
+
+  The work included Technical drawing of the floor plans as well as detailed 2D and 3D drawing of the exhibited objects. The new exhibition is inatially planned to be inaugurated in 2025. Due to the pandemic, the date is likely to be postponed.
 date: 2021-06-01T13:55:40.377Z
 links:
   - link: https://www.deutsches-museum.de/en/exhibitions/overview/
