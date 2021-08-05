@@ -10,8 +10,12 @@ date: 2021-08-05T08:33:09.168Z
 links:
   - link: https://www.uni-weimar.de/en/architecture-and-urbanism/news/news/titel/videomapping-experiments-zur-langen-nacht-der-museen-am-haus-am-horn/
     title: Videomapping experiments | Langen Nacht der Museen
-  - title: " Videomapping Experiments Project / Semesterprojekt"
+  - title: " Videomapping Experiments Project | Semesterprojekt"
     link: https://www.uni-weimar.de/de/universitaet/partner-und-alumni/partner/vereine-und-netzwerke/freundeskreis/projekte/
+  - title: Spacial Puzzle | Event
+    link: https://www.youtube.com/watch?v=G93g5ycH30s&ab_channel=anitz
+  - title: Spacial Puzzle | Mapping Process
+    link: https://www.youtube.com/watch?v=2pt9bDL1ATs&ab_channel=anitz
 credits:
   - title: Tutors
     text: Prof. Andreas Kästner, Dr.-Ing. Sabine Zierold
@@ -30,8 +34,3 @@ The project Video Mapping Experiments consists of video mapping animations to be
 The second part was about developing individual ideas for animations through a storyboard relating to Bauhaus history and the house itself. With the storyboard and the technological background it was possible to create the animations making use of softwares for modelling, motion graphics and video editing.
 
 The idea of this animation is to bring out the interior of the house in different ways, analysing the structure, the sun and shadow contrast and also playing with colours, the same that Walter Gropius used in a drawing from 1923, and give it movement as a spatial puzzle.
-
-[Bauhaus-University Weimar (Project)](https://www.uni-weimar.de/de/universitaet/partner-und-alumni/partner/vereine-und-netzwerke/freundeskreis/projekte/)
-[Video Mapping Experiments | Lange Nacht der Museen 2015](https://www.uni-weimar.de/en/architecture-and-urbanism/news/news/titel/videomapping-experiments-zur-langen-nacht-der-museen-am-haus-am-horn/)
-["Spacial Puzzle - Event" on YouTube](https://www.youtube.com/watch?v=G93g5ycH30s&ab_channel=anitz)
-["Spacial Puzzle - Process" on YouTube](https://www.youtube.com/watch?v=2pt9bDL1ATs&ab_channel=anitz)
