@@ -79,9 +79,24 @@
       "title": "Events",
       "items": [
         {
+          "date": "10.2019",
+          "title": "XIV. Internationales Bauhaus-Kolloquium",
+          "description": "Organisational assistance for 14th International Bauhaus-Kolloquium at the Bauhaus-Universität Weimar.\n\nConference Director: Prof. Dr. Ines Weizman, CDA\\\nCoordination: Katharina Benjamin, M.Sc.\n\n\n\nhttps://www.bauhaus-kolloquium.de/\n\nhttps://www.instagram.com/bauhauskolloquium/"
+        },
+        {
           "date": "09.2016",
           "title": "Bauhausfest 2016 - Bauhaus, Dessau - Germany",
-          "description": "Test Test \n\nTestttttTestttttTestttttTestttttTestttttTestttttTestttttTestttttTestttttTestttttTesttttt TestttttTestttttTestttttTestttttTestttttTestttttTesttttt TestttttTestttttTestttttTestttttTestttttTestttttTestttttTestttttTestttttTestttttTestttttTestttttTestttttTestttttTesttttt"
+          "description": "[Zirkus, Zirkus – von Schwarz nach Weiß](https://www.youtube.com/watch?v=23rB1LbBE9Q&ab_channel=StiftungBauhausDessau)\nShort trailer of the performance by the group Kybernetischer Zirkus, to be projected onto the facade of the original building of the Bauhaus Dessau. Produced together with the architect Stefanie Holzheu.\n\nhttps://www.youtube.com/watch?v=23rB1LbBE9Q&ab_channel=StiftungBauhausDessau"
+        },
+        {
+          "date": "06.2015",
+          "title": "Video Mapping Experiments - Haus am Horn, Weimar - Germany",
+          "description": "Supervision: Prof. Andreas Kästner, chair Darstellungsmethodik. Video facade animation developed as a semester project at the Bauhaus University Weimar for the Haus am Horn, UNESCO World Heritage Bauhaus. The event was part of the \"Lange Nacht der Museen\" 2015."
+        },
+        {
+          "date": "05.2015",
+          "title": "From the Second Life - Tel Aviv, Israel - White City Network",
+          "description": "Supervision: Prof. Ines Weizman\\\nExhibition organised by the students based on their works on Forgotten Architecture with an interdisciplinary display that employed different types of media, including films, blueprints, literature and digital technologies, which depict various buildings that were designed by emigrant architects."
         }
       ]
     }
