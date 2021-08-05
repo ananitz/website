@@ -3,18 +3,20 @@ title: Spacial Puzzle
 feature: false
 image: /img/1-small.jpg
 subtitle: Video Mapping Experiments
-meta: |-
-  Video facade animation, Lange Nacht der Museen 2015
+meta: >-
+  Video facade animation, MediaArchitecture Project at Bauhaus-University
+  Weimar, part of Lange Nacht der Museen.
+
   Haus am Horn, Weimar, Germany – June 2015
 date: 2021-08-05T08:33:09.168Z
 links:
   - link: https://www.uni-weimar.de/en/architecture-and-urbanism/news/news/titel/videomapping-experiments-zur-langen-nacht-der-museen-am-haus-am-horn/
-    title: Videomapping experiments | Langen Nacht der Museen
-  - title: " Videomapping Experiments Project | Semesterprojekt"
+    title: Videomapping Experiments | Langen Nacht der Museen 2015
+  - title: " Videomapping Experiments Project | Bauhaus-University Weimar "
     link: https://www.uni-weimar.de/de/universitaet/partner-und-alumni/partner/vereine-und-netzwerke/freundeskreis/projekte/
-  - title: Spacial Puzzle | Event
+  - title: Spacial Puzzle | Video Event
     link: https://www.youtube.com/watch?v=G93g5ycH30s&ab_channel=anitz
-  - title: Spacial Puzzle | Mapping Process
+  - title: Spacial Puzzle | Video Mapping Process
     link: https://www.youtube.com/watch?v=2pt9bDL1ATs&ab_channel=anitz
 credits:
   - title: Tutors
