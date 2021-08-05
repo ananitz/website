@@ -17,16 +17,16 @@ links:
 credits:
   - title: Tutors
     text: Prof. Ines Weizman, Wolfram Höhne
+  - title: Script and editing
+    text: Ana Paula Nitzsche
+  - title: " Camera"
+    text: Ana Paula Nitzsche, Johannes Lerdon
   - title: Images
     text: 'Bernard Rudofsky, 1951 - Berta Rudofsky, New York / P. C. Scheier, ca.
       1941 Peter C. Scheier, São Paulo / B.Rudofsky, ca. 1943 - Research
       Library, The Getty Institute, Los Angeles / G. E. Kidder Smith, 1943 -
       Research Library, The Getty Institute, Los Angeles / B.Rudofsky, ca.1941 -
       Source: Rudofsky, Bernard. "Three Patios Houses", 1943'
-  - title: Script and editing
-    text: Ana Paula Nitzsche
-  - title: " Camera"
-    text: Ana Paula Nitzsche, Johannes Lerdon
 videos:
   - https://www.youtube.com/embed/S9QkoTkU_fM?autoplay=0&controls=1&showinfo=0&rel=0
 images:
