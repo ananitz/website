@@ -1,7 +1,7 @@
 ---
 title: Deutsches Museum
 feature: false
-image: /img/img_8834.jpg
+image: /img/img_3796.jpg
 subtitle: Exhibition design and scenography at neo.studio
 meta: >-
   Power Machinery – Electric Power – Marine Navigation - Historic Aviation –
