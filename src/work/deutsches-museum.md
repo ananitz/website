@@ -3,11 +3,16 @@ title: Deutsches Museum
 feature: false
 image: /img/img_3796.jpg
 subtitle: Exhibition design and scenography at neo.studio
-meta: |-
+meta: >-
   Preliminary design for upcoming exhibitions at Deutsches Museum, Munich.\
+
+  Power Machinery – Electric Power – Marine Navigation - Historic Aviation – Natural Sciences
+
   Berlin/ Munich, Germany – Jan.- Nov. 2020
 
+
   Work Stages: LP 1-2 HOAI
+
   Team: neo.studo Berlin
 date: 2021-06-01T13:55:40.377Z
 links:
