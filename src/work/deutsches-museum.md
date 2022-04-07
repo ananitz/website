@@ -32,7 +32,7 @@ meta: >-
   The work included Technical drawing of the floor plans as well as detailed 2D and 3D drawing of the exhibited objects. The new exhibition is inatially planned to be inaugurated in 2025. Due to the pandemic, the date is likely to be postponed.
 date: 2021-06-01T13:55:40.377Z
 links:
-  - link: https://www.deutsches-museum.de/en/exhibitions/overview/
+  - link: https://www.deutsches-museum.de/en/museum-island/exhibitions/overview-exhibitions
     title: Deutsches Museum
   - title: neo.studio neumann schneider architekten
     link: https://www.neo-studio.de/
