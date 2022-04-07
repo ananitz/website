@@ -3,33 +3,12 @@ title: Deutsches Museum
 feature: false
 image: /img/img_3796.jpg
 subtitle: Exhibition design and scenography at neo.studio
-meta: >-
-  Power Machinery – Electric Power – Marine Navigation - Historic Aviation –
-  Natural Sciences 
-
-
-  New planning of five existing exhibitions in the Deutsches Museum, Munich, together with coworkers and project managers from neo.studo Berlin.
-
-
-
-
-  Work description:\
-
-  \
-
+meta: |-
   Preliminary design for upcoming exhibitions at Deutsches Museum, Munich.\
+  Berlin/ Munich, Germany – Jan.- Nov. 2020
 
-  \
-
-  (Schifffahrt - Historische Luftfahrt – Natur der Naturwissenschaft)\
-
-  \
-
-  Emphasis Planning for KM1 and STS including first draft submission.\
-
-  \
-
-  The work included Technical drawing of the floor plans as well as detailed 2D and 3D drawing of the exhibited objects. The new exhibition is inatially planned to be inaugurated in 2025. Due to the pandemic, the date is likely to be postponed.
+  Work Stages: LP 1-2 HOAI
+  Team: neo.studo Berlin
 date: 2021-06-01T13:55:40.377Z
 links:
   - link: https://www.deutsches-museum.de/en/museum-island/exhibitions/overview-exhibitions
@@ -47,8 +26,8 @@ tags:
   - Architecture
   - Exhibition
 ---
-New plans for five existing exhibitions (Marine Navigation/ Schifffahrt - Historic Aviation/ Historische Luftfahrt – Natural Sciences/ Natur der Naturwissenschaft), with special focus on Power Machinery/ Kraftmaschine and Electric Power/ Starkstrom including high-voltage demonstration for visitors.
+Preliminary design and new plans for five existing exhibitions (Marine Navigation/ Schifffahrt - Historic Aviation/ Historische Luftfahrt – Natural Sciences/ Natur der Naturwissenschaft), with special focus on Power Machinery/ Kraftmaschine and Electric Power/ Starkstrom including high-voltage demonstration for visitors.
 
-The work included the preliminary design of the first official submission (LP2 HOAI). Emphasis on Technical drawing of the floor plans as well as detailed 2D and 3D drawing of the exhibited objects.
+The work included the preliminary design of the first official submission (LP2 HOAI) and developed together with coworkers and project managers from neo.studo Berlin. Personal emphasis on Technical drawing of the floor plans as well as detailed 2D and 3D drawing of the exhibited objects.
 
 The upcoming new exhibitions were initially were planned to be inaugurated in 2025. Due to the pandemic, the date is likely to be postponed.
