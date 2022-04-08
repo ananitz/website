@@ -22,7 +22,6 @@ credits:
     title: "Photos Credits:"
 images:
   - /img/01_ufmg_1.jpg
-  - /img/01_ufmg_2.jpg
   - /img/01_ufmg_3.jpg
   - /img/01_ufmg_4.jpg
 tags:
