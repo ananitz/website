@@ -15,11 +15,11 @@ links:
     title: School of Architecture UFMG
 credits:
   - text: Celina Lemos, Flávio Carsalade, Cristiano Cezarino
-    title: " Concept and curatorship:"
+    title: " Concept and curatorship"
   - text: Students of the Research Lab PET Arquitetura UFMG
-    title: "Project development:"
+    title: Project development
   - text: G. Jota
-    title: "Photos Credits:"
+    title: Photos Credits
 images:
   - /img/01_ufmg_1.jpg
   - /img/01_ufmg_3.jpg
