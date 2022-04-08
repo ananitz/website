@@ -1,7 +1,7 @@
 ---
 title: Spacial Puzzle
 feature: false
-image: /img/1.jpg
+image: /img/08.spacial-puzzle_1.jpg
 subtitle: Video Mapping Experiments
 meta: |-
   Video facade animation, Lange Nacht der Museen
@@ -26,8 +26,8 @@ videos:
   - https://www.youtube.com/watch?v=2pt9bDL1ATs&ab_channel=anitz
   - https://www.youtube.com/watch?v=G93g5ycH30s&ab_channel=anitz
 images:
-  - /img/1.jpg
-  - /img/2.jpg
+  - /img/08.spacial-puzzle_1.jpg
+  - /img/08.spacial-puzzle_2.jpg
 tags:
   - Video Mapping
   - Urban Space
