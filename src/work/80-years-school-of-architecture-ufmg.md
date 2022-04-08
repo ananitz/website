@@ -2,7 +2,7 @@
 title: 80 Years School of Architecture UFMG
 feature: false
 image: /img/01_ufmg_1.jpg
-subtitle: '"Memories of the past, vision of the future"'
+subtitle: Memories of the past, vision of the future
 meta: >-
   Exhibition at Palacio das Artes
 
