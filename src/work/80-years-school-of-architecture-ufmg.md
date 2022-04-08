@@ -28,6 +28,5 @@ tags:
   - Architecture
   - Exhibition
   - Research
-  - Participatory Design
 ---
 As part of the celebrations of 80 years of the School of Architecture at the UFMG, this exhibition tells the history of the school and indicates its path for the coming decades. The main focus is the projects from the architects graduated at the school and their contribution to the city landscape. It also holds a special area dedicated to the painting and poetries of the architect and Professor Hygina Bruzzi. Description of work: Research and selection of material for the exhibition, collaboration with the concept and the set design.
