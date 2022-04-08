@@ -3,26 +3,23 @@ title: 80 Years School of Architecture UFMG
 feature: false
 image: /img/01_ufmg_1.jpg
 subtitle: Memories of the past, vision of the future
-meta: >-
+meta: >
   Exhibition at Palacio das Artes
 
   Extension Scholarship Program
 
   UFMG - Federal University of Minas Gerais, Belo Horizonte, Brazil – February 2011
-
-
-  Concept and curatorship: Celina Lemos, Flávio Carsalade
-
-  Tutor: Cristiano Cezarino
-
-  Project: Students of the Research Lab PET Arquitetura UFMG
 date: 2022-04-08T07:41:27.121Z
 links:
   - link: https://www.ufmg.br/online/arquivos/018994.shtml
     title: School of Architecture UFMG
 credits:
+  - text: Celina Lemos, Flávio Carsalade, Cristiano Cezarino
+    title: " Concept and curatorship:"
+  - text: Students of the Research Lab PET Arquitetura UFMG
+    title: "Project development:"
   - text: G. Jota
-    title: "Photos "
+    title: "Photos Credits:"
 images:
   - /img/01_ufmg_1.jpg
   - /img/01_ufmg_2.jpg
