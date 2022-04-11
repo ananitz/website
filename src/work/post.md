@@ -20,7 +20,7 @@ credits:
   - title: Script and editing
     text: Ana Paula Nitzsche
   - title: " Camera"
-    text: Ana Paula Nitzsche, Johannes Lerdon
+    text: Ana Paula Nitzsche, J. Lerdon
   - title: Images
     text: 'Bernard Rudofsky, 1951 - Berta Rudofsky, New York / P. C. Scheier, ca.
       1941 Peter C. Scheier, São Paulo / B.Rudofsky, ca. 1943 - Research
