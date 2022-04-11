@@ -23,7 +23,6 @@ images:
 tags:
   - Architecture
   - Urban Space
-  - Research
 ---
 The project recognizes the need to empower the youth of the neighborhood Jardim Canadá (39% of the population, Fundação Dom Cabral, 2011) — suburbs of the capital Belo Horizonte. Taking into consideration the lack of skilled labor, the aim was at life quality improvements for the local population. With interviews and maps developed for the area, is confirmed the need for an equipment that would encompass educational, recreational e and social functions.
 
