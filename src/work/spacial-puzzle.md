@@ -34,7 +34,7 @@ images:
 tags:
   - Video Mapping
   - Urban Space
-  - Architecture
+  - Media Installation
 ---
 The project Video Mapping Experiments consists of video mapping animations to be projected at the Haus am Horn, the famous experimental building project of the Weimar Bauhaus (UNESCO World Heritage). In the first part of the project, the group built a physical model of the Haus am Horn on the scale 1:20 as precise as possible to avoid problems when projecting on the real surface of the house. The bigger it is the dimension of the model the better it is to visualise the projection. The material used was MDF wood finished with white spray paint and acrylic glass for the windows.
 
