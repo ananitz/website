@@ -1,6 +1,6 @@
 ---
 title: Casa Arnstein 1939-41
-feature: false
+feature: true
 image: /img/00_arnstein_1.jpg
 subtitle: The entanglement of architecture and nature in Bernard Rudofsky's
   patio house in São Paulo
