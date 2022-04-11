@@ -24,7 +24,6 @@ images:
   - /img/11_bio-objects_2.jpg
   - /img/11_bio-objects_3.jpg
   - /img/11_bio-objects_4.jpg
-  - /img/11_bio-objects_5.jpg
 tags:
   - Exhibition
   - Media Installation
