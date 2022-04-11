@@ -2,7 +2,7 @@
 title: From the Second Life
 feature: false
 image: /img/07_second-life_1.jpg
-subtitle: Documents of Forgotten Architecture in Tel Aviv
+subtitle: Exhibition at Liebling Haus in Tel Aviv
 meta: |-
   From the Second Live - Documents of Forgotten Architectures
   Film Project Exhibition
