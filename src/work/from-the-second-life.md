@@ -19,6 +19,7 @@ images:
   - /img/07_second-life_3.jpg
   - /img/07_second-life_4.jpg
   - /img/07_second-life_3-copy.jpg
+  - /img/07_second-life_4-copy.jpg
 tags:
   - Architecture
   - Exhibition
