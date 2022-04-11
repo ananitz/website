@@ -22,8 +22,7 @@ images:
   - /img/10_cda-summ_2.jpg
   - /img/10_cda-summ_3.jpg
 tags:
-  - Media Installation
   - Exhibition
-  - Research
+  - Media Installation
 ---
 Presenting the works of the interdisciplinary research project "From the second life. Documents of forgotten architectures" as a media installation during the Summaery 2015 - annual student's work exhibition of the Bauhaus-Universität Weimar with all the best projects of all four faculties — Architecture, Civil Engineering, Art and Design, and Media. This project won for the second time on a roll the Bauhaus Essentials Prize.
