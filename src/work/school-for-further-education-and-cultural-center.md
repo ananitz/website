@@ -17,9 +17,7 @@ images:
   - /img/04_tcc_3.jpg
   - /img/04_tcc_4.jpg
   - /img/04_tcc_2.jpg
-  - /img/04_tcc_draw1.png
   - /img/04_tcc_map1.png
-  - /img/04_tcc_map2.png
 tags:
   - Architecture
   - Urban Space
