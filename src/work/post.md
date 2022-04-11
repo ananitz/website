@@ -1,7 +1,7 @@
 ---
 title: Casa Arnstein 1939-41
 feature: false
-image: https://ananitzsche.com/img/content/work/bauhausfest-2016/1-small.jpg
+image: /img/00_arnstein_1.jpg
 subtitle: The entanglement of architecture and nature in Bernard Rudofsky's
   patio house in São Paulo
 meta: |-
@@ -30,6 +30,10 @@ credits:
 videos:
   - https://www.youtube.com/embed/S9QkoTkU_fM?autoplay=0&controls=1&showinfo=0&rel=0
 images:
+  - /img/00_arnstein_1.jpg
+  - /img/00_arnstein_2.jpg
+  - /img/00_arnstein_3.jpg
+  - /img/00_arnstein_4-small.jpg
   - https://ananitzsche.com/img/content/work/casa-arnstein-1939-41/5.jpg
 tags:
   - Research
