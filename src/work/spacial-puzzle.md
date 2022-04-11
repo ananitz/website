@@ -22,12 +22,15 @@ credits:
     text: Prof. Andreas Kästner, Dr.-Ing. Sabine Zierold
   - text: Ana Paula Nitzsche
     title: Concept and animation
+  - title: Set Up
+    text: A. Nitzsche, Fernando Millán, Christoph Drews
 videos:
   - https://www.youtube.com/watch?v=2pt9bDL1ATs&ab_channel=anitz
   - https://www.youtube.com/watch?v=G93g5ycH30s&ab_channel=anitz
 images:
   - /img/08.spacial-puzzle_1.jpg
   - /img/08.spacial-puzzle_2.jpg
+  - /img/08.spacial-puzzle_3.jpg
 tags:
   - Video Mapping
   - Urban Space
