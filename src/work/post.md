@@ -14,6 +14,8 @@ links:
     link: https://www.uni-weimar.de/de/universitaet/aktuell/bauhausjournal-online/veranstaltungen/titel/bauhaus-essentials-teilnehmer-stehen-fest/
   - title: '"Casa Arnstein 1939-41" on YouTube'
     link: https://youtu.be/S9QkoTkU_fM
+  - title: CDA – Documents of Forgotten Architectures
+    link: https://documentary-architecture.org/archive/publications/from-the-second-life
 credits:
   - title: Tutors
     text: Prof. Ines Weizman, Wolfram Höhne
